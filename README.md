@@ -1,3 +1,2 @@
 # hello-world
-Learining test
-Hello here.
+Learining is cool.
